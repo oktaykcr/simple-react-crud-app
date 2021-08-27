@@ -1,5 +1,5 @@
 # Simple React CRUD App
-This project is simple crud application for learning purposes developed with React.js. DaisyUI is used for styling and React-Redux is used for a predictable state container.
+This project is simple crud application for learning purposes developed with React.js. [DaisyUI](https://daisyui.com/) is used for styling and React-Redux is used for a predictable state container. The backend side is developed by [Strapi](https://strapi.io/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
